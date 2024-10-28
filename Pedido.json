@@ -1,0 +1,18 @@
+{
+    "pedido": {
+      "destinatario_pedido": {
+        "nombre_destinatario": "Juan Delgado Martínez"
+      },
+      "articulo_pedido": {
+        "articulo": "Bicicleta Bianchi Oltre"
+      },
+      "direccion_entrega": {
+        "calle": "Reforma",
+        "numero": "423",
+        "piso": "tercer piso",
+        "letra": "A"
+      },
+      "fecha_entrega": "2021-09-19"
+    }
+  }
+  
